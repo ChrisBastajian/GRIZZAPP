@@ -1,4 +1,4 @@
-# 💬 RizzApp
+# 💬 GRizzApp
 
 RizzApp is a web-based chatbot experience that uses the **Google Gemini API** to evaluate and interact with users based on their "Rizz" — a playful metric of charisma and charm.
 
